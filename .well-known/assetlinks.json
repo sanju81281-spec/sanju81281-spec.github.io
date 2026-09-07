@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sanju81281.landlayoutplanner",
+      "sha256_cert_fingerprints": [
+        "F7:87:BF:B1:8D:92:D2:FD:7D:69:B0:6D:74:FD:A7:5B:51:A4:75:DB:A7:52:18:0D:E6:A0:97:2D:C9:B0:7A:01"
+      ]
+    }
+  }
+]
